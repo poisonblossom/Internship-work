@@ -1,4 +1,4 @@
-# Internship-work
+# Bashwatch
 
 Learnt some basic commands in bash scripting and worked on a SIEM (Security Information and Event Management) project where
 I had to run serveral scripts to manage some various processes. SIEM is a cybersecurity solution that provides real-time monitoring, 
